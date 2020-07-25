@@ -1,5 +1,5 @@
-# final_node_docker
- dockerizing a node js app connect to a mongodb data base
+
+A back end nodejs and express application.
 
 # Nodejs / Express / mongoose (Back end ) :
 The second part of the project requires having a back end server that is connected to the already existing mongodb data base from the first step in order to create endpoints that will be used in the future by the front end application.The technology that was used for the back end was: Nodejs / Express / Mongoose but since the back end project won't be running on the local machine and it will be running inside a docker container instead we wont have to do any setting up to node or run any npm commands That's the beauty of docker its all inside the dockerfile already set up in simple steps.
